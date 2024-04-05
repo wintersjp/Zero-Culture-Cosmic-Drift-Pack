@@ -1,7 +1,7 @@
 {
-  "name": "#ZC Nissan Silvia PS13",
+  "name": "#ZC Nissan Silvia S13",
   "brand": "Nissan",
-  "description": "Nissan Silvia PS13 for MUTINY | Touge and Drifting community - https://discord.gg/hTvVF9TEGG<br>We have Assetto Corsa servers!<br><br>NOTES:<br>- Set steering degrees (steer lock) to 1116&#176;<br>- Enable &quot;More physically accurate gyro implementation&quot; in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks<br>- Direct Drive wheels enable &quot;Output real steering forces to wheel&quot; in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks and match &quot;Wheel peak torque&quot; value to your wheelbase power<br>- Non Direct Drive wheels enable &quot;Range compression assist&quot; at 100% in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks<br>- Reduce FFB to appropriate level<br><br>Driver Model Download — https://drive.google.com/file/d/1Ma11SD8cYwH5TXAQQ7nOmtkJDuoBUEvl/view?usp=drive_link<br><br>If you like these cars, check out the cars that inspired this pack from Team Excite!<br>https://www.vosan.co/driftcarpacks/excite-v2-extended/<br>https://www.vosan.co/driftcarpacks/excite-x-kuba-przygoski-car-pack/<br><br>CREDITS:<br>Base Car — DWG<br>Base model — Polyphony Digital, DriftDj<br>Body Mesh and textures reworked — DWG<br>Refractions and animations — Cody<br>Physics — Modified Arch Physics by Winters (Arch doesn&#39;t provide support for modified physics), engine related data from Penk<br>Physics (Tyres) — Arch &amp; Modified Arch tyres by Penk (Excite!)<br>Sound — Tripledsevens<br>Tires — HotStyle Mods<br><br>Touge &amp; Drifting content at https://www.youtube.com/@MUTINYSIM",
+  "description": "Nissan Silvia S13 for MUTINY | Touge and Drifting community - https://discord.gg/hTvVF9TEGG<br>We have Assetto Corsa servers!<br><br>Custom Shader Patch 0.2.0+ Required!<br><br>NOTES:<br>- Set steering degrees (steer lock) to 1116&#176;<br>- Enable &quot;More physically accurate gyro implementation&quot; in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks<br>- Direct Drive wheels enable &quot;Output real steering forces to wheel&quot; in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks and match &quot;Wheel peak torque&quot; value to your wheelbase power<br>- Non Direct Drive wheels enable &quot;Range compression assist&quot; at 100% in Settings &gt; Custom Shaders Patch &gt; FFB Tweaks<br>- Reduce FFB to appropriate level<br><br>Driver Model Download — https://drive.google.com/file/d/1Ma11SD8cYwH5TXAQQ7nOmtkJDuoBUEvl/view?usp=drive_link<br><br>If you like these cars, check out the cars that inspired this pack from Team Excite!<br>https://www.vosan.co/driftcarpacks/excite-v2-extended/<br>https://www.vosan.co/driftcarpacks/excite-x-kuba-przygoski-car-pack/<br><br>CREDITS:<br>Base Car — Darkzone<br>Base model — Polyphony Digital<br>Model edits — Winters<br>Animations — Winters<br>Misc Parts — Winters<br>Physics — Modified Arch Physics by Winters (Arch doesn&#39;t provide support for modified physics), engine related data from Penk<br>Physics (Tyres) — Arch &amp; Modified Arch tyres by Penk (Excite!)<br><br>Get more cars and packs at our Gumroad https://mutinysim.gumroad.com/",
   "tags": [
     "Nissan",
     "Japan",
@@ -399,7 +399,7 @@
   },
   "country": "Japan",
   "author": "Winters | MUTINY",
-  "version": "2.3",
+  "version": "2.5",
   "url": "https://discord.gg/hTvVF9TEGG",
   "year": 1991
 }
